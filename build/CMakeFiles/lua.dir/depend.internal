@@ -419,23 +419,33 @@ CMakeFiles/lua.dir/Lua/lzio.c.obj
  C:/Users/wl/Desktop/lua/Lua/luaconf.h
  C:/Users/wl/Desktop/lua/Lua/lzio.c
  C:/Users/wl/Desktop/lua/Lua/lzio.h
-CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj
  ../Lua/lauxlib.h
  ../Lua/lua.h
  ../Lua/luaconf.h
  ../Lua/lualib.h
- C:/Users/wl/Desktop/lua/luatest/lua_getfield_setfield.c
-CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj
+ ../luatest/inc/lua_test.h
+ C:/Users/wl/Desktop/lua/luatest/src/lua_getfield_setfield.c
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj
  ../Lua/lauxlib.h
  ../Lua/lua.h
  ../Lua/luaconf.h
  ../Lua/lualib.h
- C:/Users/wl/Desktop/lua/luatest/lua_gettable_settable.c
-CMakeFiles/lua.dir/luatest/lua_index.c.obj
- C:/Users/wl/Desktop/lua/luatest/lua_index.c
+ ../luatest/inc/lua_test.h
+ C:/Users/wl/Desktop/lua/luatest/src/lua_gettable_settable.c
+CMakeFiles/lua.dir/luatest/src/lua_index.c.obj
+ C:/Users/wl/Desktop/lua/luatest/src/lua_index.c
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj
+ ../Lua/lauxlib.h
+ ../Lua/lua.h
+ ../Lua/luaconf.h
+ ../Lua/lualib.h
+ ../luatest/inc/lua_test.h
+ C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c
 CMakeFiles/lua.dir/main.c.obj
  ../Lua/lauxlib.h
  ../Lua/lua.h
  ../Lua/luaconf.h
  ../Lua/lualib.h
+ ../luatest/inc/lua_test.h
  C:/Users/wl/Desktop/lua/main.c

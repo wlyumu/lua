@@ -1431,86 +1431,113 @@ Lua/lzio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/Lua/lzio.c.s
 .PHONY : Lua/lzio.c.s
 
-luatest/lua_getfield_setfield.obj: luatest/lua_getfield_setfield.c.obj
+luatest/src/lua_getfield_setfield.obj: luatest/src/lua_getfield_setfield.c.obj
 
-.PHONY : luatest/lua_getfield_setfield.obj
-
-# target to build an object file
-luatest/lua_getfield_setfield.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj
-.PHONY : luatest/lua_getfield_setfield.c.obj
-
-luatest/lua_getfield_setfield.i: luatest/lua_getfield_setfield.c.i
-
-.PHONY : luatest/lua_getfield_setfield.i
-
-# target to preprocess a source file
-luatest/lua_getfield_setfield.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.i
-.PHONY : luatest/lua_getfield_setfield.c.i
-
-luatest/lua_getfield_setfield.s: luatest/lua_getfield_setfield.c.s
-
-.PHONY : luatest/lua_getfield_setfield.s
-
-# target to generate assembly for a file
-luatest/lua_getfield_setfield.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.s
-.PHONY : luatest/lua_getfield_setfield.c.s
-
-luatest/lua_gettable_settable.obj: luatest/lua_gettable_settable.c.obj
-
-.PHONY : luatest/lua_gettable_settable.obj
+.PHONY : luatest/src/lua_getfield_setfield.obj
 
 # target to build an object file
-luatest/lua_gettable_settable.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj
-.PHONY : luatest/lua_gettable_settable.c.obj
+luatest/src/lua_getfield_setfield.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj
+.PHONY : luatest/src/lua_getfield_setfield.c.obj
 
-luatest/lua_gettable_settable.i: luatest/lua_gettable_settable.c.i
+luatest/src/lua_getfield_setfield.i: luatest/src/lua_getfield_setfield.c.i
 
-.PHONY : luatest/lua_gettable_settable.i
+.PHONY : luatest/src/lua_getfield_setfield.i
 
 # target to preprocess a source file
-luatest/lua_gettable_settable.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.i
-.PHONY : luatest/lua_gettable_settable.c.i
+luatest/src/lua_getfield_setfield.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.i
+.PHONY : luatest/src/lua_getfield_setfield.c.i
 
-luatest/lua_gettable_settable.s: luatest/lua_gettable_settable.c.s
+luatest/src/lua_getfield_setfield.s: luatest/src/lua_getfield_setfield.c.s
 
-.PHONY : luatest/lua_gettable_settable.s
+.PHONY : luatest/src/lua_getfield_setfield.s
 
 # target to generate assembly for a file
-luatest/lua_gettable_settable.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.s
-.PHONY : luatest/lua_gettable_settable.c.s
+luatest/src/lua_getfield_setfield.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.s
+.PHONY : luatest/src/lua_getfield_setfield.c.s
 
-luatest/lua_index.obj: luatest/lua_index.c.obj
+luatest/src/lua_gettable_settable.obj: luatest/src/lua_gettable_settable.c.obj
 
-.PHONY : luatest/lua_index.obj
+.PHONY : luatest/src/lua_gettable_settable.obj
 
 # target to build an object file
-luatest/lua_index.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_index.c.obj
-.PHONY : luatest/lua_index.c.obj
+luatest/src/lua_gettable_settable.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj
+.PHONY : luatest/src/lua_gettable_settable.c.obj
 
-luatest/lua_index.i: luatest/lua_index.c.i
+luatest/src/lua_gettable_settable.i: luatest/src/lua_gettable_settable.c.i
 
-.PHONY : luatest/lua_index.i
+.PHONY : luatest/src/lua_gettable_settable.i
 
 # target to preprocess a source file
-luatest/lua_index.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_index.c.i
-.PHONY : luatest/lua_index.c.i
+luatest/src/lua_gettable_settable.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.i
+.PHONY : luatest/src/lua_gettable_settable.c.i
 
-luatest/lua_index.s: luatest/lua_index.c.s
+luatest/src/lua_gettable_settable.s: luatest/src/lua_gettable_settable.c.s
 
-.PHONY : luatest/lua_index.s
+.PHONY : luatest/src/lua_gettable_settable.s
 
 # target to generate assembly for a file
-luatest/lua_index.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/lua_index.c.s
-.PHONY : luatest/lua_index.c.s
+luatest/src/lua_gettable_settable.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.s
+.PHONY : luatest/src/lua_gettable_settable.c.s
+
+luatest/src/lua_index.obj: luatest/src/lua_index.c.obj
+
+.PHONY : luatest/src/lua_index.obj
+
+# target to build an object file
+luatest/src/lua_index.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_index.c.obj
+.PHONY : luatest/src/lua_index.c.obj
+
+luatest/src/lua_index.i: luatest/src/lua_index.c.i
+
+.PHONY : luatest/src/lua_index.i
+
+# target to preprocess a source file
+luatest/src/lua_index.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_index.c.i
+.PHONY : luatest/src/lua_index.c.i
+
+luatest/src/lua_index.s: luatest/src/lua_index.c.s
+
+.PHONY : luatest/src/lua_index.s
+
+# target to generate assembly for a file
+luatest/src/lua_index.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_index.c.s
+.PHONY : luatest/src/lua_index.c.s
+
+luatest/src/lua_rawgeti_rawseti.obj: luatest/src/lua_rawgeti_rawseti.c.obj
+
+.PHONY : luatest/src/lua_rawgeti_rawseti.obj
+
+# target to build an object file
+luatest/src/lua_rawgeti_rawseti.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj
+.PHONY : luatest/src/lua_rawgeti_rawseti.c.obj
+
+luatest/src/lua_rawgeti_rawseti.i: luatest/src/lua_rawgeti_rawseti.c.i
+
+.PHONY : luatest/src/lua_rawgeti_rawseti.i
+
+# target to preprocess a source file
+luatest/src/lua_rawgeti_rawseti.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.i
+.PHONY : luatest/src/lua_rawgeti_rawseti.c.i
+
+luatest/src/lua_rawgeti_rawseti.s: luatest/src/lua_rawgeti_rawseti.c.s
+
+.PHONY : luatest/src/lua_rawgeti_rawseti.s
+
+# target to generate assembly for a file
+luatest/src/lua_rawgeti_rawseti.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.s
+.PHONY : luatest/src/lua_rawgeti_rawseti.c.s
 
 main.obj: main.c.obj
 
@@ -1678,15 +1705,18 @@ help:
 	@echo "... Lua/lzio.obj"
 	@echo "... Lua/lzio.i"
 	@echo "... Lua/lzio.s"
-	@echo "... luatest/lua_getfield_setfield.obj"
-	@echo "... luatest/lua_getfield_setfield.i"
-	@echo "... luatest/lua_getfield_setfield.s"
-	@echo "... luatest/lua_gettable_settable.obj"
-	@echo "... luatest/lua_gettable_settable.i"
-	@echo "... luatest/lua_gettable_settable.s"
-	@echo "... luatest/lua_index.obj"
-	@echo "... luatest/lua_index.i"
-	@echo "... luatest/lua_index.s"
+	@echo "... luatest/src/lua_getfield_setfield.obj"
+	@echo "... luatest/src/lua_getfield_setfield.i"
+	@echo "... luatest/src/lua_getfield_setfield.s"
+	@echo "... luatest/src/lua_gettable_settable.obj"
+	@echo "... luatest/src/lua_gettable_settable.i"
+	@echo "... luatest/src/lua_gettable_settable.s"
+	@echo "... luatest/src/lua_index.obj"
+	@echo "... luatest/src/lua_index.i"
+	@echo "... luatest/src/lua_index.s"
+	@echo "... luatest/src/lua_rawgeti_rawseti.obj"
+	@echo "... luatest/src/lua_rawgeti_rawseti.i"
+	@echo "... luatest/src/lua_rawgeti_rawseti.s"
 	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -5,8 +5,8 @@
 #include "lua.h"
 #include "lauxlib.h"
 #include "lualib.h"
-extern void lua_gettable_settable_test(void);
-extern void print_stacknum(const char * desc, const int count);
+
+#include "lua_test.h"
 
 lua_State *g_lua = 0;
 
@@ -139,10 +139,12 @@ int main(void)
 //   luaL_dofile(g_lua, "C:/Users/wl/Desktop/vscode/vscode/fieldtest.lua");
 //   test_api_gettop();
 
-  // test_api_getfield();
+//   test_api_getfield();
 
-//  car_control();
-lua_gettable_settable_test();
+//   car_control();
+//   lua_gettable_settable_test();
+     lua_rawgeti_rawseti();
+     lua_close(g_lua);
    return 1;
 }
 

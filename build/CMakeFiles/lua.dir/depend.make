@@ -419,23 +419,33 @@ CMakeFiles/lua.dir/Lua/lzio.c.obj: ../Lua/luaconf.h
 CMakeFiles/lua.dir/Lua/lzio.c.obj: ../Lua/lzio.c
 CMakeFiles/lua.dir/Lua/lzio.c.obj: ../Lua/lzio.h
 
-CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj: ../Lua/lauxlib.h
-CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj: ../Lua/lua.h
-CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj: ../Lua/luaconf.h
-CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj: ../Lua/lualib.h
-CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj: ../luatest/lua_getfield_setfield.c
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj: ../Lua/lauxlib.h
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj: ../Lua/lua.h
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj: ../Lua/luaconf.h
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj: ../Lua/lualib.h
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj: ../luatest/inc/lua_test.h
+CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj: ../luatest/src/lua_getfield_setfield.c
 
-CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj: ../Lua/lauxlib.h
-CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj: ../Lua/lua.h
-CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj: ../Lua/luaconf.h
-CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj: ../Lua/lualib.h
-CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj: ../luatest/lua_gettable_settable.c
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj: ../Lua/lauxlib.h
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj: ../Lua/lua.h
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj: ../Lua/luaconf.h
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj: ../Lua/lualib.h
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj: ../luatest/inc/lua_test.h
+CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj: ../luatest/src/lua_gettable_settable.c
 
-CMakeFiles/lua.dir/luatest/lua_index.c.obj: ../luatest/lua_index.c
+CMakeFiles/lua.dir/luatest/src/lua_index.c.obj: ../luatest/src/lua_index.c
+
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj: ../Lua/lauxlib.h
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj: ../Lua/lua.h
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj: ../Lua/luaconf.h
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj: ../Lua/lualib.h
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj: ../luatest/inc/lua_test.h
+CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj: ../luatest/src/lua_rawgeti_rawseti.c
 
 CMakeFiles/lua.dir/main.c.obj: ../Lua/lauxlib.h
 CMakeFiles/lua.dir/main.c.obj: ../Lua/lua.h
 CMakeFiles/lua.dir/main.c.obj: ../Lua/luaconf.h
 CMakeFiles/lua.dir/main.c.obj: ../Lua/lualib.h
+CMakeFiles/lua.dir/main.c.obj: ../luatest/inc/lua_test.h
 CMakeFiles/lua.dir/main.c.obj: ../main.c
 

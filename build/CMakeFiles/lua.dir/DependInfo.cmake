@@ -37,9 +37,10 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/wl/Desktop/lua/Lua/lutf8lib.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/Lua/lutf8lib.c.obj"
   "C:/Users/wl/Desktop/lua/Lua/lvm.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/Lua/lvm.c.obj"
   "C:/Users/wl/Desktop/lua/Lua/lzio.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/Lua/lzio.c.obj"
-  "C:/Users/wl/Desktop/lua/luatest/lua_getfield_setfield.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj"
-  "C:/Users/wl/Desktop/lua/luatest/lua_gettable_settable.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj"
-  "C:/Users/wl/Desktop/lua/luatest/lua_index.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/lua_index.c.obj"
+  "C:/Users/wl/Desktop/lua/luatest/src/lua_getfield_setfield.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj"
+  "C:/Users/wl/Desktop/lua/luatest/src/lua_gettable_settable.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj"
+  "C:/Users/wl/Desktop/lua/luatest/src/lua_index.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_index.c.obj"
+  "C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj"
   "C:/Users/wl/Desktop/lua/main.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
@@ -48,6 +49,8 @@ set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_TARGET_INCLUDE_PATH
   ".././Lua"
   "../LUA_INC"
+  ".././luatest/inc"
+  "../LUA_TEST_INC"
   )
 
 # Targets to which this target links.

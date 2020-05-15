@@ -171,17 +171,22 @@
 },
 {
   "directory": "C:/Users/wl/Desktop/lua/build",
-  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj   -c C:/Users/wl/Desktop/lua/luatest/lua_getfield_setfield.c",
-  "file": "C:/Users/wl/Desktop/lua/luatest/lua_getfield_setfield.c"
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_getfield_setfield.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/src/lua_getfield_setfield.c"
 },
 {
   "directory": "C:/Users/wl/Desktop/lua/build",
-  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj   -c C:/Users/wl/Desktop/lua/luatest/lua_gettable_settable.c",
-  "file": "C:/Users/wl/Desktop/lua/luatest/lua_gettable_settable.c"
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_gettable_settable.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/src/lua_gettable_settable.c"
 },
 {
   "directory": "C:/Users/wl/Desktop/lua/build",
-  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_index.c.obj   -c C:/Users/wl/Desktop/lua/luatest/lua_index.c",
-  "file": "C:/Users/wl/Desktop/lua/luatest/lua_index.c"
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/src/lua_index.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_index.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/src/lua_index.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c"
 }
 ]

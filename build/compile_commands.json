@@ -1,0 +1,187 @@
+[
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/main.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/main.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/main.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lapi.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lapi.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lapi.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lauxlib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lauxlib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lauxlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lbaselib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lbaselib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lbaselib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lbitlib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lbitlib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lbitlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lcode.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lcode.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lcode.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lcorolib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lcorolib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lcorolib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lctype.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lctype.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lctype.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldblib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ldblib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ldblib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldebug.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ldebug.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ldebug.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldo.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ldo.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ldo.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldump.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ldump.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ldump.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lfunc.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lfunc.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lfunc.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lgc.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lgc.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lgc.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/linit.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/linit.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/linit.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/liolib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/liolib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/liolib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/llex.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/llex.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/llex.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lmathlib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lmathlib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lmathlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lmem.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lmem.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lmem.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/loadlib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/loadlib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/loadlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lobject.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lobject.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lobject.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lopcodes.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lopcodes.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lopcodes.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/loslib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/loslib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/loslib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lparser.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lparser.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lparser.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lstate.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lstate.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lstate.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lstring.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lstring.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lstring.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lstrlib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lstrlib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lstrlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ltable.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ltable.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ltable.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ltablib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ltablib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ltablib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ltm.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/ltm.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/ltm.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lundump.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lundump.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lundump.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lutf8lib.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lutf8lib.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lutf8lib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lvm.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lvm.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lvm.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lzio.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/Lua/lzio.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/Lua/lzio.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/luatest/lua_getfield_setfield.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/luatest/lua_getfield_setfield.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/luatest/lua_gettable_settable.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/luatest/lua_gettable_settable.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/vscode/vscode/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_index.c.obj   -c C:/Users/wl/Desktop/vscode/vscode/luatest/lua_index.c",
+  "file": "C:/Users/wl/Desktop/vscode/vscode/luatest/lua_index.c"
+}
+]

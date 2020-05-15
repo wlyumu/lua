@@ -1,7 +1,187 @@
 [
 {
   "directory": "C:/Users/wl/Desktop/lua/build",
-  "command": "F:/MINGW/bin/g++.exe    -g   -o CMakeFiles/lua.dir/main.cpp.obj -c C:/Users/wl/Desktop/lua/main.cpp",
-  "file": "C:/Users/wl/Desktop/lua/main.cpp"
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/main.c.obj   -c C:/Users/wl/Desktop/lua/main.c",
+  "file": "C:/Users/wl/Desktop/lua/main.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lapi.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lapi.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lapi.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lauxlib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lauxlib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lauxlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lbaselib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lbaselib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lbaselib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lbitlib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lbitlib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lbitlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lcode.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lcode.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lcode.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lcorolib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lcorolib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lcorolib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lctype.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lctype.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lctype.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldblib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ldblib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ldblib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldebug.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ldebug.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ldebug.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldo.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ldo.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ldo.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ldump.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ldump.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ldump.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lfunc.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lfunc.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lfunc.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lgc.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lgc.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lgc.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/linit.c.obj   -c C:/Users/wl/Desktop/lua/Lua/linit.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/linit.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/liolib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/liolib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/liolib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/llex.c.obj   -c C:/Users/wl/Desktop/lua/Lua/llex.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/llex.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lmathlib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lmathlib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lmathlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lmem.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lmem.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lmem.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/loadlib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/loadlib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/loadlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lobject.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lobject.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lobject.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lopcodes.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lopcodes.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lopcodes.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/loslib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/loslib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/loslib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lparser.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lparser.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lparser.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lstate.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lstate.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lstate.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lstring.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lstring.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lstring.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lstrlib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lstrlib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lstrlib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ltable.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ltable.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ltable.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ltablib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ltablib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ltablib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/ltm.c.obj   -c C:/Users/wl/Desktop/lua/Lua/ltm.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/ltm.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lundump.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lundump.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lundump.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lutf8lib.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lutf8lib.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lutf8lib.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lvm.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lvm.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lvm.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/Lua/lzio.c.obj   -c C:/Users/wl/Desktop/lua/Lua/lzio.c",
+  "file": "C:/Users/wl/Desktop/lua/Lua/lzio.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj   -c C:/Users/wl/Desktop/lua/luatest/lua_getfield_setfield.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/lua_getfield_setfield.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj   -c C:/Users/wl/Desktop/lua/luatest/lua_gettable_settable.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/lua_gettable_settable.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/lua_index.c.obj   -c C:/Users/wl/Desktop/lua/luatest/lua_index.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/lua_index.c"
 }
 ]

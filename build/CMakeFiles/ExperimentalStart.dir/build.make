@@ -63,10 +63,10 @@ RM = "F:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:/Users/wl/Desktop/vscode/vscode
+CMAKE_SOURCE_DIR = C:/Users/wl/Desktop/lua
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:/Users/wl/Desktop/vscode/vscode/build
+CMAKE_BINARY_DIR = C:/Users/wl/Desktop/lua/build
 
 # Utility rule file for ExperimentalStart.
 
@@ -91,6 +91,6 @@ CMakeFiles/ExperimentalStart.dir/clean:
 .PHONY : CMakeFiles/ExperimentalStart.dir/clean
 
 CMakeFiles/ExperimentalStart.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/Users/wl/Desktop/vscode/vscode C:/Users/wl/Desktop/vscode/vscode C:/Users/wl/Desktop/vscode/vscode/build C:/Users/wl/Desktop/vscode/vscode/build C:/Users/wl/Desktop/vscode/vscode/build/CMakeFiles/ExperimentalStart.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/Users/wl/Desktop/lua C:/Users/wl/Desktop/lua C:/Users/wl/Desktop/lua/build C:/Users/wl/Desktop/lua/build C:/Users/wl/Desktop/lua/build/CMakeFiles/ExperimentalStart.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ExperimentalStart.dir/depend
 

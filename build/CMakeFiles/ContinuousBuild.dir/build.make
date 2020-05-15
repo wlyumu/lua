@@ -63,10 +63,10 @@ RM = "F:/Program Files/CMake/bin/cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:/Users/wl/Desktop/vscode/vscode
+CMAKE_SOURCE_DIR = C:/Users/wl/Desktop/lua
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:/Users/wl/Desktop/vscode/vscode/build
+CMAKE_BINARY_DIR = C:/Users/wl/Desktop/lua/build
 
 # Utility rule file for ContinuousBuild.
 
@@ -91,6 +91,6 @@ CMakeFiles/ContinuousBuild.dir/clean:
 .PHONY : CMakeFiles/ContinuousBuild.dir/clean
 
 CMakeFiles/ContinuousBuild.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/Users/wl/Desktop/vscode/vscode C:/Users/wl/Desktop/vscode/vscode C:/Users/wl/Desktop/vscode/vscode/build C:/Users/wl/Desktop/vscode/vscode/build C:/Users/wl/Desktop/vscode/vscode/build/CMakeFiles/ContinuousBuild.dir/DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" C:/Users/wl/Desktop/lua C:/Users/wl/Desktop/lua C:/Users/wl/Desktop/lua/build C:/Users/wl/Desktop/lua/build C:/Users/wl/Desktop/lua/build/CMakeFiles/ContinuousBuild.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/ContinuousBuild.dir/depend
 

@@ -83,7 +83,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/wl/Desktop/vscode/vscode/build"
+			"value" : "c:/Users/wl/Desktop/lua/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -683,7 +683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/wl/Desktop/vscode/vscode"
+			"value" : "C:/Users/wl/Desktop/lua"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1763,7 +1763,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/wl/Desktop/vscode/vscode/build"
+			"value" : "C:/Users/wl/Desktop/lua/build"
 		},
 		{
 			"name" : "lua_SOURCE_DIR",
@@ -1775,7 +1775,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/wl/Desktop/vscode/vscode"
+			"value" : "C:/Users/wl/Desktop/lua"
 		}
 	],
 	"kind" : "cache",

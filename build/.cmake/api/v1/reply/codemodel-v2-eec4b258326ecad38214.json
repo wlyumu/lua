@@ -290,7 +290,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "lua::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-lua-Debug-345e90ac12973c32ca4a.json",
+					"jsonFile" : "target-lua-Debug-b55904177e904d9ec812.json",
 					"name" : "lua",
 					"projectIndex" : 0
 				}
@@ -300,8 +300,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/wl/Desktop/vscode/vscode/build",
-		"source" : "C:/Users/wl/Desktop/vscode/vscode"
+		"build" : "C:/Users/wl/Desktop/lua/build",
+		"source" : "C:/Users/wl/Desktop/lua"
 	},
 	"version" : 
 	{

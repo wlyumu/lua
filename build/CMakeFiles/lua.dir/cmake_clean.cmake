@@ -1,41 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/lua.dir/Lua/lapi.c.obj"
-  "CMakeFiles/lua.dir/Lua/lauxlib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lbaselib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lbitlib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lcode.c.obj"
-  "CMakeFiles/lua.dir/Lua/lcorolib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lctype.c.obj"
-  "CMakeFiles/lua.dir/Lua/ldblib.c.obj"
-  "CMakeFiles/lua.dir/Lua/ldebug.c.obj"
-  "CMakeFiles/lua.dir/Lua/ldo.c.obj"
-  "CMakeFiles/lua.dir/Lua/ldump.c.obj"
-  "CMakeFiles/lua.dir/Lua/lfunc.c.obj"
-  "CMakeFiles/lua.dir/Lua/lgc.c.obj"
-  "CMakeFiles/lua.dir/Lua/linit.c.obj"
-  "CMakeFiles/lua.dir/Lua/liolib.c.obj"
-  "CMakeFiles/lua.dir/Lua/llex.c.obj"
-  "CMakeFiles/lua.dir/Lua/lmathlib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lmem.c.obj"
-  "CMakeFiles/lua.dir/Lua/loadlib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lobject.c.obj"
-  "CMakeFiles/lua.dir/Lua/lopcodes.c.obj"
-  "CMakeFiles/lua.dir/Lua/loslib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lparser.c.obj"
-  "CMakeFiles/lua.dir/Lua/lstate.c.obj"
-  "CMakeFiles/lua.dir/Lua/lstring.c.obj"
-  "CMakeFiles/lua.dir/Lua/lstrlib.c.obj"
-  "CMakeFiles/lua.dir/Lua/ltable.c.obj"
-  "CMakeFiles/lua.dir/Lua/ltablib.c.obj"
-  "CMakeFiles/lua.dir/Lua/ltm.c.obj"
-  "CMakeFiles/lua.dir/Lua/lundump.c.obj"
-  "CMakeFiles/lua.dir/Lua/lutf8lib.c.obj"
-  "CMakeFiles/lua.dir/Lua/lvm.c.obj"
-  "CMakeFiles/lua.dir/Lua/lzio.c.obj"
-  "CMakeFiles/lua.dir/luatest/lua_getfield_setfield.c.obj"
-  "CMakeFiles/lua.dir/luatest/lua_gettable_settable.c.obj"
-  "CMakeFiles/lua.dir/luatest/lua_index.c.obj"
-  "CMakeFiles/lua.dir/main.c.obj"
+  "CMakeFiles/lua.dir/main.cpp.obj"
   "liblua.dll.a"
   "lua.exe"
   "lua.exe.manifest"
@@ -43,6 +7,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang C)
+foreach(lang CXX)
   include(CMakeFiles/lua.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

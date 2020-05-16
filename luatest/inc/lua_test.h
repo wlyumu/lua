@@ -7,6 +7,6 @@ void lua_gettable_settable_test(void);
 void lua_rawgeti_rawseti(void);
 void print_stacknum(const char * desc, const int count);
 void printLuaStack(lua_State* lua);
-
+void lua_typetest(void);
 
 #endif /*lua_test*/

@@ -188,5 +188,10 @@
   "directory": "C:/Users/wl/Desktop/lua/build",
   "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c",
   "file": "C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c"
+},
+{
+  "directory": "C:/Users/wl/Desktop/lua/build",
+  "command": "F:/MINGW/bin/gcc.exe  @CMakeFiles/lua.dir/includes_C.rsp -g   -o CMakeFiles/lua.dir/luatest/src/lua_type.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_type.c",
+  "file": "C:/Users/wl/Desktop/lua/luatest/src/lua_type.c"
 }
 ]

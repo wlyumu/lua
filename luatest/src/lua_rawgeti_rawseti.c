@@ -12,8 +12,7 @@
 
   void lua_rawseti (lua_State *L, int index, lua_Integer i);
   功能：是否等价于t[i] = v，其中t是给定索引处的表，v是堆栈顶部的值。
-
-
+  
 */
 void lua_rawgeti_rawseti(void)
 {
@@ -48,3 +47,4 @@ void lua_rawgeti_rawseti(void)
   lua_pcall(g_lua, 0, 0, 0);
 
 }
+

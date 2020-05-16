@@ -41,6 +41,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "C:/Users/wl/Desktop/lua/luatest/src/lua_gettable_settable.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj"
   "C:/Users/wl/Desktop/lua/luatest/src/lua_index.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_index.c.obj"
   "C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj"
+  "C:/Users/wl/Desktop/lua/luatest/src/lua_type.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/luatest/src/lua_type.c.obj"
   "C:/Users/wl/Desktop/lua/main.c" "C:/Users/wl/Desktop/lua/build/CMakeFiles/lua.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")

@@ -36,6 +36,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj"
   "CMakeFiles/lua.dir/luatest/src/lua_index.c.obj"
   "CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj"
+  "CMakeFiles/lua.dir/luatest/src/lua_type.c.obj"
   "CMakeFiles/lua.dir/main.c.obj"
   "liblua.dll.a"
   "lua.exe"

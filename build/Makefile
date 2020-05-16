@@ -1539,6 +1539,33 @@ luatest/src/lua_rawgeti_rawseti.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.s
 .PHONY : luatest/src/lua_rawgeti_rawseti.c.s
 
+luatest/src/lua_type.obj: luatest/src/lua_type.c.obj
+
+.PHONY : luatest/src/lua_type.obj
+
+# target to build an object file
+luatest/src/lua_type.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_type.c.obj
+.PHONY : luatest/src/lua_type.c.obj
+
+luatest/src/lua_type.i: luatest/src/lua_type.c.i
+
+.PHONY : luatest/src/lua_type.i
+
+# target to preprocess a source file
+luatest/src/lua_type.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_type.c.i
+.PHONY : luatest/src/lua_type.c.i
+
+luatest/src/lua_type.s: luatest/src/lua_type.c.s
+
+.PHONY : luatest/src/lua_type.s
+
+# target to generate assembly for a file
+luatest/src/lua_type.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/lua.dir/build.make CMakeFiles/lua.dir/luatest/src/lua_type.c.s
+.PHONY : luatest/src/lua_type.c.s
+
 main.obj: main.c.obj
 
 .PHONY : main.obj
@@ -1717,6 +1744,9 @@ help:
 	@echo "... luatest/src/lua_rawgeti_rawseti.obj"
 	@echo "... luatest/src/lua_rawgeti_rawseti.i"
 	@echo "... luatest/src/lua_rawgeti_rawseti.s"
+	@echo "... luatest/src/lua_type.obj"
+	@echo "... luatest/src/lua_type.i"
+	@echo "... luatest/src/lua_type.s"
 	@echo "... main.obj"
 	@echo "... main.i"
 	@echo "... main.s"

@@ -609,6 +609,20 @@ CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.s"
 	F:/MINGW/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c -o CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.s
 
+CMakeFiles/lua.dir/luatest/src/lua_type.c.obj: CMakeFiles/lua.dir/flags.make
+CMakeFiles/lua.dir/luatest/src/lua_type.c.obj: CMakeFiles/lua.dir/includes_C.rsp
+CMakeFiles/lua.dir/luatest/src/lua_type.c.obj: ../luatest/src/lua_type.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:/Users/wl/Desktop/lua/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building C object CMakeFiles/lua.dir/luatest/src/lua_type.c.obj"
+	F:/MINGW/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/lua.dir/luatest/src/lua_type.c.obj   -c C:/Users/wl/Desktop/lua/luatest/src/lua_type.c
+
+CMakeFiles/lua.dir/luatest/src/lua_type.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/lua.dir/luatest/src/lua_type.c.i"
+	F:/MINGW/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E C:/Users/wl/Desktop/lua/luatest/src/lua_type.c > CMakeFiles/lua.dir/luatest/src/lua_type.c.i
+
+CMakeFiles/lua.dir/luatest/src/lua_type.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/lua.dir/luatest/src/lua_type.c.s"
+	F:/MINGW/bin/gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S C:/Users/wl/Desktop/lua/luatest/src/lua_type.c -o CMakeFiles/lua.dir/luatest/src/lua_type.c.s
+
 # Object files for target lua
 lua_OBJECTS = \
 "CMakeFiles/lua.dir/main.c.obj" \
@@ -648,7 +662,8 @@ lua_OBJECTS = \
 "CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj" \
 "CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj" \
 "CMakeFiles/lua.dir/luatest/src/lua_index.c.obj" \
-"CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj"
+"CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj" \
+"CMakeFiles/lua.dir/luatest/src/lua_type.c.obj"
 
 # External object files for target lua
 lua_EXTERNAL_OBJECTS =
@@ -691,10 +706,11 @@ lua.exe: CMakeFiles/lua.dir/luatest/src/lua_getfield_setfield.c.obj
 lua.exe: CMakeFiles/lua.dir/luatest/src/lua_gettable_settable.c.obj
 lua.exe: CMakeFiles/lua.dir/luatest/src/lua_index.c.obj
 lua.exe: CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj
+lua.exe: CMakeFiles/lua.dir/luatest/src/lua_type.c.obj
 lua.exe: CMakeFiles/lua.dir/build.make
 lua.exe: CMakeFiles/lua.dir/linklibs.rsp
 lua.exe: CMakeFiles/lua.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:/Users/wl/Desktop/lua/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Linking C executable lua.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:/Users/wl/Desktop/lua/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking C executable lua.exe"
 	"F:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/lua.dir/objects.a
 	F:/MINGW/bin/ar.exe cr CMakeFiles/lua.dir/objects.a @CMakeFiles/lua.dir/objects1.rsp
 	F:/MINGW/bin/gcc.exe -g   -Wl,--whole-archive CMakeFiles/lua.dir/objects.a -Wl,--no-whole-archive  -o lua.exe -Wl,--out-implib,liblua.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles/lua.dir/linklibs.rsp

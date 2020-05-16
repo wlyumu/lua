@@ -442,6 +442,13 @@ CMakeFiles/lua.dir/luatest/src/lua_rawgeti_rawseti.c.obj
  ../Lua/lualib.h
  ../luatest/inc/lua_test.h
  C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c
+CMakeFiles/lua.dir/luatest/src/lua_type.c.obj
+ ../Lua/lauxlib.h
+ ../Lua/lua.h
+ ../Lua/luaconf.h
+ ../Lua/lualib.h
+ ../luatest/inc/lua_test.h
+ C:/Users/wl/Desktop/lua/luatest/src/lua_type.c
 CMakeFiles/lua.dir/main.c.obj
  ../Lua/lauxlib.h
  ../Lua/lua.h

@@ -143,7 +143,8 @@ int main(void)
 
 //   car_control();
 //   lua_gettable_settable_test();
-     lua_rawgeti_rawseti();
+//   lua_rawgeti_rawseti();
+     lua_typetest();
      lua_close(g_lua);
    return 1;
 }

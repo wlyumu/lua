@@ -38,7 +38,7 @@ lua.h
 
 ../luatest/inc/lua_test.h
 
-C:/Users/wl/Desktop/lua/luatest/src/lua_rawgeti_rawseti.c
+C:/Users/wl/Desktop/lua/luatest/src/lua_type.c
 lua.h
 C:/Users/wl/Desktop/lua/luatest/src/lua.h
 lauxlib.h
